@@ -1,5 +1,7 @@
 # Introduction To AI Ethics
 
+Below are my notes for the [Intro to AI Ethics](https://www.kaggle.com/learn/intro-to-ai-ethics) course, which I completed on the [19th of October 2023](https://www.kaggle.com/learn/certification/cwthompson/intro-to-ai-ethics).
+
 ## Human-Centered Design For AI
 
 Human-centered design (HCD) involves designing systems that serve people's needs. There are several steps to consider:
